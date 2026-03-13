@@ -54,4 +54,7 @@ This dashboard empowers sales managers to:
 Source: Maven Analytics
 Data on quarterly sales transactions for a fictional tech company (SYNX Tech), including details on sales agents, product categories, customer accounts, sectors, deal close dates, and win/loss outcomes — structured and modeled within Power BI Desktop.
 
-# 8.Screenshot
+# 8.Dashboard Preview
+- Home Page- https://github.com/jasmeenjosan345-spec/SYNX-Tech-Dashboard/blob/main/SYNX%20DASHBOARD%20(Home).png
+- Current Quarter Sales Breakdown-
+- Performance Overtime-
