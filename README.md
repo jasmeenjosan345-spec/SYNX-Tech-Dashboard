@@ -23,7 +23,7 @@ To build an interactive, drill-down dashboard that helps sales managers instantl
 - Total Sales by Account (donut chart)
 - Sales Detail drill-down table with agent, account, product,close date, and total sales
 
-  📌 Page 3 – Performance Overtime
+📌 Page 3 – Performance Overtime
 - Total Sales by Quarter trend line (Q1–Q4)
 - New Opportunities by Quarter stacked bar (Won/Lost/Engaging)
 - Total Sales by Sales Agent ranked bar
