@@ -57,4 +57,4 @@ Data on quarterly sales transactions for a fictional tech company (SYNX Tech), i
 # 8.Dashboard Preview
 - Home Page- https://github.com/jasmeenjosan345-spec/SYNX-Tech-Dashboard/blob/main/SYNX%20DASHBOARD%20(Home).png
 - Current Quarter Sales Breakdown- https://github.com/jasmeenjosan345-spec/SYNX-Tech-Dashboard/blob/main/SYNX%20DASHBOARD%20(C.QTR%20sales).png
-- Performance Overtime-
+- Performance Overtime- https://github.com/jasmeenjosan345-spec/SYNX-Tech-Dashboard/blob/main/SYNX%20DASHBOARD%20(Performance%20Overtime).png
